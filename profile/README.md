@@ -10,7 +10,9 @@
   * labels,
   * teams and
   * developers
-* Sharing project state of development as code- or link
+* Sharing project state of development
+  * as code- or
+  * as link
 * Downloading project state of development
   * as PDF
 * Efficient B2B communication (currently only available in our IOS-app)
