@@ -7,5 +7,5 @@
 * Viewing Project state of development (milestones and tasks).
 
 ### Integrations
-* [ ] Github
+* [ x ] Github
 * [ ] Jira
