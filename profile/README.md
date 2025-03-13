@@ -21,3 +21,6 @@
 ### Integrations
 * [x] GitHub
 * [ ] Jira
+* [ ] Plane
+* [ ] Clickup
+* [ ] Monday
